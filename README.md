@@ -5,7 +5,7 @@
   <img align="center"  height="150"
        src="https://github-readme-stats.vercel.app/api?username=EduardoRenz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"  alt="Stats"/>
 
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRenz&layout=compact&theme=merko&include_all_commits=true&count_private=true%hide=Jupyter-Notebook" alt="Top Langs"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRenz&layout=compact&theme=merko&include_all_commits=true&count_private=true%hide=jupyter%20notebook" alt="Top Langs"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
