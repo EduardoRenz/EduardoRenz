@@ -1,13 +1,6 @@
 <h1 align="center" >Welcome to Eduardo Renz's GitHub </h1>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img align="center"  height="150"
-       src="https://github-readme-stats.vercel.app/api?username=EduardoRenz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"  alt="Stats"/>
-
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRenz&layout=compact&theme=merko&include_all_commits=true&count_private=true%hide=jupyter%20notebook" alt="Top Langs"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
