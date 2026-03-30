@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ccff33&height=200&section=header&text=Eduardo%20Renz&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20|%20Full%20Stack%20|%20AI&descAlignY=62&descSize=20" width="100%"/>
+</div>
+
+<div align="center">
   <h1>Hey! 👋 I'm Eduardo Renz</h1>
   <p>Tech Lead | Full Stack Developer | Clean Architecture | AI</p>
 </div>
