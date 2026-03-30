@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Hey! 👋 I'm Eduardo Renz</h1>
   <p>Tech Lead | Full Stack Developer | Clean Architecture | AI</p>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoRenz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRenz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
